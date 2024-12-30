@@ -1,0 +1,5 @@
+D:\Users\rqm\Documents\programar\pooC-\Composicion\obj\Debug\net9.0\Composicion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\rqm\Documents\programar\pooC-\Composicion\obj\Debug\net9.0\Composicion.AssemblyInfoInputs.cache
+D:\Users\rqm\Documents\programar\pooC-\Composicion\obj\Debug\net9.0\Composicion.AssemblyInfo.cs
+D:\Users\rqm\Documents\programar\pooC-\Composicion\obj\Debug\net9.0\Composicion.csproj.CoreCompileInputs.cache
+D:\Users\rqm\Documents\programar\pooC-\Composicion\obj\Debug\net9.0\Composicion.sourcelink.json
